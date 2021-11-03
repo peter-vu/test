@@ -21,6 +21,17 @@
         </plugins>
     </build>
 
+    <distributionManagement>
+        <repository>
+            <id>Local</id>
+            <url>file://Users/petervu/Practice/test1</url>
+        </repository>
+        <snapshotRepository>
+            <id>local</id>
+            <url>file://Users/petervu/Practice/test1</url>
+        </snapshotRepository>
+    </distributionManagement>
+
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/peter-vu/test.git</developerConnection>
         <connection>scm:git:ssh://git@github.com/peter-vu/test.git</connection>
