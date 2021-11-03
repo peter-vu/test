@@ -4,7 +4,7 @@
 
     <groupId>groupId</groupId>
     <artifactId>test</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -42,7 +42,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/peter-vu/test.git</developerConnection>
         <connection>scm:git:ssh://git@github.com/peter-vu/test.git</connection>
-        <tag>test-1.1</tag>
+        <tag>test-1.0</tag>
     </scm>
 
 
