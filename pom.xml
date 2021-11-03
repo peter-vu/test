@@ -26,6 +26,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com:peter-vu/test.git</developerConnection>
         <connection>scm:git:ssh://git@github.com:peter-vu/test.git</connection>
+        <tag>HEAD</tag>
     </scm>
 
 
