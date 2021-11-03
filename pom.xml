@@ -31,11 +31,11 @@
     <distributionManagement>
         <repository>
             <id>Local1</id>
-            <url>file:///Users/petervu/Practice/test1/</url>
+            <url>file:////Users/petervu/.m2/repository/</url>
         </repository>
         <snapshotRepository>
             <id>Local2</id>
-            <url>file:///Users/petervu/Practice/test1/</url>
+            <url>file:////Users/petervu/.m2/repository/</url>
         </snapshotRepository>
     </distributionManagement>
 
