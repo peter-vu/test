@@ -22,7 +22,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:ssh:/git@github.com:peter-vu/test.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com:peter-vu/test.git</developerConnection>
         <connection>scm:git:ssh://git@github.com:peter-vu/test.git</connection>
         <tag>test-1.0</tag>
     </scm>
