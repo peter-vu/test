@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
     <artifactId>test</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -22,17 +24,9 @@
     </build>
 
     <scm>
-<<<<<<< HEAD
         <developerConnection>scm:git:ssh://git@github.com:peter-vu/test.git</developerConnection>
         <connection>scm:git:ssh://git@github.com:peter-vu/test.git</connection>
-      <tag>test-1.0</tag>
-  </scm>
-=======
-        <developerConnection>scm:git:ssh://git@github.com/peter-vu/test.git</developerConnection>
-        <connection>scm:git:ssh://git@github.com/peter-vu/test.git</connection>
-        <tag>test-1.0</tag>
     </scm>
->>>>>>> bc63581d04d5d89ebe23bd74f77c66d227011ba9
 
 
 </project>

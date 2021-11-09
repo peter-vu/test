@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-This is 1st line.
-This is 2nd line.
-=======
-
->>>>>>> parent of ae2b374 (3rd)
+test
